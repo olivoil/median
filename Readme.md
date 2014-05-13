@@ -1,36 +1,36 @@
 
-# mean
+# median
 
-  mean value utility
+  median value utility
 
 ## Installation
 
-    $ component install component/mean
+    $ component install olivoil/median
 
 ## API
 
-### mean(array)
+### median(array)
 
-  Return the mean value in `array`:
+  Return the median value in `array`:
 
 ```js
-mean([1,5,6,1,2,0])
+median([1,5,6,1,2,0])
 ```
 
-### mean(array, fn)
+### median(array, fn)
 
-  mean value in `array` with callback `fn(val, i)`:
+  median value in `array` with callback `fn(val, i)`:
 
 ```js
-var age = mean(users, function(u){ return u.age })
+var age = median(users, function(u){ return u.age })
 ```
 
-### mean(array, string)
+### median(array, string)
 
-  mean value in `array` with the given property `string`:
+  median value in `array` with the given property `string`:
 
 ```js
-var age = mean(users, 'age')
+var age = median(users, 'age')
 ```
 
 # License
