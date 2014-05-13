@@ -2,7 +2,7 @@
   "name": "median",
   "repository": "olivoil/mean",
   "description": "Array median value utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["array", "median", "utility", "stats", "statistics"],
   "dependencies": {
     "component/to-function": "*"
