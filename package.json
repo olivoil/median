@@ -1,5 +1,5 @@
 {
-  "name": "mean-component",
+  "name": "median-component",
   "version": "1.0.0",
   "dependencies": {
     "to-function": "*"
@@ -10,11 +10,11 @@
   },
   "component": {
     "scripts": {
-      "mean": "index.js"
+      "median": "index.js"
     }
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/component/mean.git"
+    "url": "https://github.com/olivoil/median.git"
   }
 }

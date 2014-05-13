@@ -1,9 +1,9 @@
 {
-  "name": "mean",
-  "repo": "component/mean",
-  "description": "Array mean value utility",
+  "name": "median",
+  "repository": "olivoil/mean",
+  "description": "Array median value utility",
   "version": "1.0.0",
-  "keywords": ["array", "mean", "utility", "stats", "statistics"],
+  "keywords": ["array", "median", "utility", "stats", "statistics"],
   "dependencies": {
     "component/to-function": "*"
   },
